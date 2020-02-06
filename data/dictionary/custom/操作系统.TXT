@@ -1,0 +1,8 @@
+﻿Windows
+Win95
+Win10
+Windows10
+Windows7
+Windows8
+Windows8.1
+Windows

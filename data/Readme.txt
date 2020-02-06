@@ -1,0 +1,1 @@
+dictionary存放HanLP用户自定义词典，model存放HanLP分词模型，模型没用到，可删除
